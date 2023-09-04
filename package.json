@@ -1,0 +1,23 @@
+{
+  "name": "fast-walk-fs",
+  "version": "0.0.1",
+  "description": "A library for efficiently walking large file system structures.",
+  "main": "index.js",
+  "author": "Nicolas Coulon <coulon_nicolas@hotmail.com> (https://github.com/nicocoul)",
+  "keywords": [
+    "fs",
+    "walk",
+    "file system",
+    "crawler",
+    "scanner"
+  ],
+  "homepage": "https://github.com/nicocoul/fast-walk-fs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicocoul/fast-walk-fs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nicocoul/fast-walk-fs/issues"
+  },
+  "license": "ISC"
+}
